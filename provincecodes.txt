@@ -1,0 +1,14 @@
+Province Codes
+Ontario - ON 
+British Columbia - BC 
+Quebec - QC 
+Nova Scotia - NS
+New Brunswick - NB
+Manitoba - MB
+Prince Edward Island - PE 
+Alberta - AB 
+Newfoundland and Labrador - NL 
+Northwest Territories - NT 
+Yukon - YT
+Nunavut - NU
+Saskakatchewan - SK

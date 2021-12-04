@@ -1,0 +1,14 @@
+BC covid data:
+date: 2021-12-03
+total cases: 219180
+total deaths: 2345
+total tests : 4668208 
+total vaccines administered: 8736385
+number of fully vaccinated: 4062083
+BC covid data:
+date: 2021-12-03
+total cases: 219180
+total deaths: 2345
+total tests : 4668208 
+total vaccines administered: 8736385
+number of fully vaccinated: 4062083

@@ -1,0 +1,14 @@
+ON covid data:
+date: 2021-12-03
+total cases: 621260
+total deaths: 10016
+total tests : 19889929 
+total vaccines administered: 23832474
+number of fully vaccinated: 11281481
+ON covid data:
+date: 2021-12-03
+total cases: 621260
+total deaths: 10016
+total tests : 19889929 
+total vaccines administered: 23832474
+number of fully vaccinated: 11281481

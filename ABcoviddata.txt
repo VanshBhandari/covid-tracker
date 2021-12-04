@@ -1,0 +1,7 @@
+AB covid data: 
+date: 2021-12-03
+total cases: 336043 
+total deaths: 3257 
+total tests : 6145923 
+total vaccines administered: 6927839 
+number of fully vaccinated: 3164417
