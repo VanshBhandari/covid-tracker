@@ -27,7 +27,7 @@ while True:
         vaccinated = province_data['total_vaccinated']
         result = f'{province} covid data:\ndate: {result_date}\ntime: {current_time}\ntotal cases: {cases}\ntotal deaths: {deaths}\ntotal tests : {tests} \ntotal vaccines administered: {vaccinations}\nnumber of fully vaccinated: {vaccinated}\n'
         print(result)
-        with open(f"{province}coviddata.txt", "a") as f:
+        with open(f"./province covid data/{province}coviddata.txt", "a") as f:
             f.write(result)
         break
 
